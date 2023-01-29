@@ -1,4 +1,41 @@
 # Getting Started with Create React App
+This is Movie API App.
+Below we add some screenshot of we bsite for your reference.
+
+
+1-This is Home Page.Here shows Movies list.
+
+![Screenshot_20230129_205132](https://user-images.githubusercontent.com/120721761/215336671-fa0f6edd-6815-4e14-804a-5755bc39c735.png)
+
+
+
+![Screenshot_20230129_205228](https://user-images.githubusercontent.com/120721761/215336684-e18e67b7-638d-4b13-885a-dd07a5a3370d.png)
+
+
+
+2-Here we manage your favourites movies list.
+
+
+![Screenshot_20230129_205317](https://user-images.githubusercontent.com/120721761/215336701-0162adc0-14ea-4521-ae8b-d04b47115dc3.png)
+
+
+
+
+![Screenshot_20230129_205647](https://user-images.githubusercontent.com/120721761/215336710-0f1e57e3-465f-4724-a047-ed61d1c16de6.png)
+
+
+Functionality-
+1- Shows Movies list which are in APIs.
+2-we want to search your movie.
+3-We want to add movie in favourites,then we create favourites movies list.
+
+
+Tools-
+1-Here we use React-redux package.
+2-Use react-hooks package.
+3-Use APIs fetching for Data requirement.
+4-Use CSS for better UI.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
