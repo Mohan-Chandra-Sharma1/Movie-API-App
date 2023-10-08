@@ -34,6 +34,10 @@ class Navbar extends Component {
             Search
           </button>
 
+          <button id="search-btn" onClick={this.handleSearchClick}>
+            Search
+          </button>
+
           {showSearchResults && (
             <div className="search-results">
               <div className="search-result">
